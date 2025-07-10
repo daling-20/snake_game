@@ -43,7 +43,7 @@
 ## 配置说明（config.json）
 ```json
 {
-  "volume": 1.0,        // 音量（0~1）
+  "volume": 1.0,       // 音量（0~1）
   "skin": "yellow",    // 皮肤（original/yellow/vanguard）
   "theme": "forest"    // 主题（default/space/forest）
 }
@@ -77,6 +77,5 @@
 - pygame 官方文档与社区
 - 各类开源图片/音效资源
 
----
 如有问题或建议，欢迎反馈！
 如有问题或建议，欢迎反馈！ 

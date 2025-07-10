@@ -40,12 +40,16 @@
 ├── *.ttc                  # 字体文件
 ```
 
-## 配置说明（config.json）
+## 配置说明（config.json）               
+音量（0~1）
+皮肤（original/yellow/vanguard）
+主题（default/space/forest）
+
 ```json
 {
-  "volume": 1.0,       // 音量（0~1）
-  "skin": "yellow",    // 皮肤（original/yellow/vanguard）
-  "theme": "forest"    // 主题（default/space/forest）
+  "volume": 1.0,        
+  "skin": "yellow",     
+  "theme": "forest"     
 }
 ```
 
